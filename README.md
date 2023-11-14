@@ -4,5 +4,5 @@ This repository contains example LAMMPS input to run simulations as discussed in
 
 
   
-- [POLYMERSOME/in.new] – LAMMPS script to equilibrate a PEO-PS and PAA-PS membrane, with divalent counterions
-- [POLYMERSOME/input.lammps] example starting polymersome configuration
+- [n.new] – LAMMPS script to equilibrate a PEO-PS and PAA-PS membrane, with divalent counterions
+- [input.lammps] example starting polymersome configuration
